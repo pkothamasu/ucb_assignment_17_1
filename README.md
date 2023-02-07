@@ -13,7 +13,7 @@ In this situation, there is a low cost or penalty for type-I errors i.e., false 
 Besides comparing the performance of the classifiers, we also wish to analize the imporatnce of the features and provide some interpretation so to improve the efficiency for future direct markinging methods.
 
 ## Model Comparisons
-image.png
+![Screenshot](model-comparisons.png)
 
 ## Findings and Scope for Imprevements
 PCA reduced the number of features needed to train classifiers mainly reducing the number of non-important features. In this assignment PCA uses different compoenents including all 19 principal compoenents for comparison of performance of the features in the model evaluation. There is a scope to imporove or try with more or different princiapal components for predictions and evaluate specific features for model improvement.
